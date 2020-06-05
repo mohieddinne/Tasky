@@ -1,0 +1,25 @@
+
+.rectangle4{
+
+position: absolute;
+width: 524px;
+height: 292px;
+left: 421px;
+top: 180px;
+
+/* White */
+
+background: #FFFFFF;
+border-radius: 15px;
+z-index: 999;
+}
+.rectangle{
+
+position: absolute;
+width: 1366px;
+height: 768px;
+left: 0px;
+top: 0px;
+
+background: rgba(0, 0, 0, 0.25);
+}

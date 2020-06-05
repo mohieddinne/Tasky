@@ -1,0 +1,290 @@
+.nav{
+    /* Rectangle 21 */
+
+
+position: absolute;
+width: 1366px;
+height: 60px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+}
+.logo{
+
+    position: absolute;
+    width: 87.41px;
+    height: 28px;
+    left: 61.59px;
+    top: -16px;
+    z-index: 999;
+    
+}
+.tasky{
+
+position: absolute;
+width: 62px;
+height: 28px;
+left: 87px;
+top: 16px;
+
+font-family: Quicksand;
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+
+
+/* Accent Color */
+
+color: #9D76F0;
+}
+.rec{
+    /* Rectangle 39 */
+
+
+    position: absolute;
+    width: 46px;
+    height: 20px;
+    left: 439px;
+    top: 20px;
+    
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    
+    
+    /* Accent Color */
+    
+    color: #9D76F0;
+}
+.rec:hover{
+    position: absolute;
+width: 46px;
+height: 20px;
+left: 439px;
+top: 20px;
+
+font-family: Quicksand;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+/* Accent Color */
+
+color: #9D76F0;
+    position: absolute;
+width: 120px;
+height: 40px;
+left: 389px;
+top: 10px;
+
+/* Accent Transparent */
+
+background: rgba(205, 182, 255, 0.21);
+border-radius: 8px;
+}
+.task{
+    position: absolute;
+width: 70px;
+height: 20px;
+left: 569px;
+top: 20px;
+
+font-family: Quicksand;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+/* gray 0 */
+
+color: #E7E7ED;
+}
+.task:hover{
+    position: absolute;
+width: 149px;
+height: 40px;
+left: 519px;
+top: 10px;
+
+/* Accent Transparent */
+
+background: rgba(205, 182, 255, 0.21);
+border-radius: 8px;
+position: absolute;
+width: 70px;
+height: 20px;
+left: 569px;
+top: 20px;
+
+font-family: Quicksand;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+/* Accent Color */
+
+color: #9D76F0;
+}
+.done{
+    position: absolute;
+width: 40px;
+height: 20px;
+left: 728px;
+top: 20px;
+
+font-family: Quicksand;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+/* gray 0 */
+
+color: #E7E7ED;
+}
+.done:hover{
+    position: absolute;
+width: 149px;
+height: 40px;
+left: 678px;
+top: 10px;
+
+/* Accent Transparent */
+
+background: rgba(205, 182, 255, 0.21);
+border-radius: 8px;
+position: absolute;
+width: 40px;
+height: 20px;
+left: 745px;
+top: 20px;
+
+font-family: Quicksand;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+/* Accent Color */
+
+color: #9D76F0;
+}
+.bnmodal{
+    position: absolute;
+width: 206px;
+height: 40px;
+left: 1074px;
+top: 10px;
+position: absolute;
+left: 78.62%;
+right: 6.3%;
+top: 1.3%;
+bottom: 93.49%;
+
+/* Accent Color */
+
+background: #9D76F0;
+box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+border-radius: 13px;
+
+font-family: Quicksand;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+/* White */
+
+color: #FFFFFF;
+}
+.modal-question{
+
+position: absolute;
+width: 312px;
+height: 31.11px;
+left: 527px;
+top: 240.17px;
+
+font-family: Quicksand;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 31px;
+/* identical to box height */
+
+z-index: 1000;
+/* Text Color */
+
+color: #777A87;
+}
+.do{
+    position: absolute;
+    width: 280px;
+    height: 36px;
+    right: 550px;
+    top: 310px;
+    z-index: 1001;
+    
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 18px;
+    /* identical to box height, or 138% */
+    background: #FFFFFF;
+/* Color/Neutral/4 - Grey 25% */
+
+border: 1px solid #ECEBED;
+box-sizing: border-box;
+border-radius: 8px;
+    display: flex;
+    align-items: center;
+    
+    /* gray 0 */
+    
+    color: #E7E7ED;;
+}
+.butdo{
+    position: absolute;
+    width: 206px;
+    height: 40.14px;
+    left: 580px;
+    top: 380.71px;
+z-index: 1001;
+
+/* Accent Color */
+
+background: #9D76F0;
+box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+border-radius: 13px;
+font-family: Quicksand;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+
+/* White */
+
+color: #FFFFFF;
+}

@@ -1,0 +1,34 @@
+.we{
+    position: absolute;
+width: 690px;
+height: 31px;
+left: 184px;
+top: 178px;
+
+font-family: Quicksand;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 31px;
+
+/* Text Color */
+
+color: #777A87;
+}
+.yey{
+    position: absolute;
+width: 357px;
+height: 50px;
+left: 184px;
+top: 118px;
+
+font-family: Quicksand;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 50px;
+/* identical to box height */
+
+
+color: #777A87;
+}
