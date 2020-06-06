@@ -6,27 +6,17 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import Nav from "./components/Nav";
 // PAGES
 import Home from "./pages/Home/HomePage";
-import About from "./pages/About/AboutPage";
 import ReactDOM from "react-dom"
 import ExampleApp from "react"
-import Contact from "./pages/Contact/ContactPage";
+import App from "./App"
 
 import "./index.css";
 
-const App = () => (
-  <div>
-    <Nav />
-    <div className="container">
-      <Route exact={true} path="/" component={Home} />
-      <Route exaxt path="/about" component={About} />
-      <Route exact path="/contact" component={Contact} />
-    </div>
-  </div>
-);
+
 
 render(
-  <Router>
-    <App />
-  </Router>,
-  document.getElementById("root")
+    <Router>
+        <App />
+    </Router>,
+    document.getElementById("root")
 );
